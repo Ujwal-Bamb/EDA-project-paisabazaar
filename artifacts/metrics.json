@@ -1,0 +1,25 @@
+{
+  "best_model": "Random Forest",
+  "models": {
+    "Logistic Regression": {
+      "accuracy": 0.6624,
+      "macro_f1": 0.6392,
+      "weighted_f1": 0.661
+    },
+    "Random Forest": {
+      "accuracy": 0.7131,
+      "macro_f1": 0.6922,
+      "weighted_f1": 0.7146
+    },
+    "XGBoost": {
+      "accuracy": 0.7049,
+      "macro_f1": 0.681,
+      "weighted_f1": 0.7049
+    },
+    "LightGBM": {
+      "accuracy": 0.7044,
+      "macro_f1": 0.6793,
+      "weighted_f1": 0.7043
+    }
+  }
+}
